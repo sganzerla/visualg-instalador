@@ -8,6 +8,7 @@ Um software para criar, editar e interpretar algoritmos escritos em Portugol. É
 
 - Não tenho qualquer vínculo com o desenvolvedor do software, apenas fiz o instalador do programa.
 - Instale preferencialmente na área de trabalho ou na pasta de documentos.
+- Alguns antivírus podem bloquear a instalação.
 
 ## [Download](https://github.com/sganzerla/visualg-instalador/blob/main/dist/instalador.exe)
 
